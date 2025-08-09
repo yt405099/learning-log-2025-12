@@ -1,0 +1,12 @@
+# 2025-12-01 Learning Log
+
+## Topics Covered
+- Installed Anaconda
+- Set up Python extensions in VSCode
+
+## Key Learnings
+- How to create and switch between conda environments
+- Using Jupyter extension in VSCode to run `.ipynb` files
+
+## Next Steps
+- Configure SSH keys for Git
